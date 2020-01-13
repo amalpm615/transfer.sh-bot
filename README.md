@@ -3,6 +3,9 @@
 
 Telegram bot to upload files to transfer.sh remotely
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ### My Thanks to :heart: 
   - [MaheshMalekar](https://t.me/MaheshMalekar)
     
